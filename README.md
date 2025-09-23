@@ -77,7 +77,13 @@ This project is an end-to-end data analysis solution designed to extract critica
      <img width="294" height="176" alt="image" src="https://github.com/user-attachments/assets/84c03ecc-805e-40dd-b602-52c8c82d7c3f" />
 
    - What is the total profit for each category, ranked from highest to lowest? This helps identify high-profit categories and focus efforts on expansion or managing pricing strategies effectively.
+
+     <img width="393" height="131" alt="image" src="https://github.com/user-attachments/assets/92384245-7fe1-46cd-aaea-7dba69f8ed3f" />
+
    - What is the most frequently used payment method in each branch? This information aids in understanding branch-specific payment preferences and allows branches to streamline their payment processing systems.
+
+     <img width="622" height="218" alt="image" src="https://github.com/user-attachments/assets/078d124f-5748-408d-87fe-779d6e98cff0" />
+
    - How many transactions occur in each shift (Morning, Afternoon, Evening) across branches? This insight helps in managing staff shifts and stock replenishment schedules during high-sales periods.
    - Which branches experienced the largest decrease in revenue compared to the previous year? This is crucial for detecting branches with declining revenue and creating strategies to boost sales or mitigate          losses. 
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
