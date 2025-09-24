@@ -85,7 +85,15 @@ This project is an end-to-end data analysis solution designed to extract critica
      <img width="622" height="218" alt="image" src="https://github.com/user-attachments/assets/078d124f-5748-408d-87fe-779d6e98cff0" />
 
    - How many transactions occur in each shift (Morning, Afternoon, Evening) across branches? This insight helps in managing staff shifts and stock replenishment schedules during high-sales periods.
-   - Which branches experienced the largest decrease in revenue compared to the previous year? This is crucial for detecting branches with declining revenue and creating strategies to boost sales or mitigate          losses. 
+
+     <img width="700" height="203" alt="image" src="https://github.com/user-attachments/assets/2b098f50-ab3b-493e-87af-fb06bfd77726" />
+
+     
+   - Which branches experienced the largest decrease in revenue compared to the previous year? This is crucial for detecting branches with declining revenue and creating strategies to boost sales or mitigate          losses.
+
+     <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/a99f2ecb-a3da-409a-ba02-8b67256a1add" />
+
+     
    - **Documentation**: Keep clear notes of each query's objective, approach, and results.
 
 ### 10. Project Publishing and Documentation
