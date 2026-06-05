@@ -4,7 +4,8 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+<img width="1338" height="632" alt="image" src="https://github.com/user-attachments/assets/00ca9346-2f03-495b-99d4-d33aa11fd305" />
+
 
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Target sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
