@@ -1,13 +1,13 @@
-# End-to-End-Walmart-Retail-Sales-SQL-Analysis
+# End-to-End-Target-Retail-Sales-SQL-Analysis
 
-# Walmart Data Analysis: End-to-End SQL + Python Project
+# Target Data Analysis: End-to-End SQL + Python Project
 
 ## Project Overview
 
 ![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Target sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
 
 ---
 
@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
+- **Data Source**: Kaggle’s Target Sales Dataset
+- **Inspiration**: Target’s business case studies on sales and supply chain optimization.
 
 ---
